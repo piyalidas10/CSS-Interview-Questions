@@ -1,5 +1,5 @@
 # CSS-Interview-Questions
-𝟏-𝟏𝟎: 𝐁𝐚𝐬𝐢𝐜𝐬 𝐨𝐟 𝐂𝐒𝐒
+
 1. What is CSS and what are its key features?
 2. Explain the difference between margin and padding.
 3. How does the box model work in CSS?
@@ -10,8 +10,6 @@
 8. What is the difference between display: none and visibility: hidden?
 9. Describe the difference between position: relative, position: absolute, and position: fixed.
 10. How do you implement responsive design in CSS?
-
-𝟏𝟏-𝟐𝟎: 𝐋𝐚𝐲𝐨𝐮𝐭𝐬 𝐚𝐧𝐝 𝐅𝐥𝐞𝐱𝐛𝐨𝐱
 11. What are CSS selectors and how do you use them?
 12. Explain the concept of the CSS box-sizing property.
 13. Describe the difference between flexbox and grid layout.
@@ -22,8 +20,6 @@
 18. Describe the difference between em and rem units in CSS.
 19. What is the clearfix hack and when is it used?
 20. How can you optimize CSS for performance?
-
-𝟐𝟏-𝟑𝟎: 𝐅𝐥𝐨𝐚𝐭𝐬 𝐚𝐧𝐝 𝐆𝐫𝐚𝐝𝐢𝐞𝐧𝐭𝐬
 21. What are CSS floats and how do they work?
 22. Explain the concept of CSS specificity.
 23. How do you implement a sticky footer in CSS?
