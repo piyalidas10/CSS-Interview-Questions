@@ -580,5 +580,25 @@ https://www.geeksforgeeks.org/difference-between-relative-and-absolute-position-
 
 ---
 
+  ### 31. CSS properties to reduce the DOM load / rendering?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### 
+```
+.item {
+    content-visibility: auto;
+    content-intrinsic-size: auto; 
+}
+```
+These properties help the browser skip rendering off-screen content until it comes into view, making initial load times and scrolling smoother. The content-visibility property tells browsers they can skip rendering content that users can't see. This saves processing time since the browser doesn't need to calculate styles, layout, and paint for off-screen elements.
+  https://www.debugbear.com/blog/content-visibility-api
+
+</p>
+</details>
+
+---
+
 
 
